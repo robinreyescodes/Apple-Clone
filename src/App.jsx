@@ -6,7 +6,7 @@ export default function App() {
         <main className="bg-black">
             <Navbar/>
             <Hero/>
-            <Highlights/>
+            {/*<Highlights/>*/}
         </main>
     )
 }
